@@ -1,4 +1,4 @@
-This README guy is kinda rude.
+[Use my warp referral code so I can get a hoodie or something](https://app.warp.dev/referral/8XZZ3N)
 <!--
 **dsm20/dsm20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
