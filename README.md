@@ -2,5 +2,6 @@
   <a href="https://app.warp.dev/referral/8XZZ3N">Warp Terminal Referral</a> 
 </p>
 
+![GitHub contribution graph space shooter](gh-space-shooter.gif)
 
 
